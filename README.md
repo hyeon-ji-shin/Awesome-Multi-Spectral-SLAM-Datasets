@@ -12,8 +12,6 @@ Unlike the abundant large‑scale RGB datasets, publicly available thermal and m
 
 This curated list aims to bridge that gap, providing key resources to advance research in robust SLAM and perception for challenging environments.
 
-(Note: This list only includes datasets that provide ground-truth odometry.)
-
 
 ## Related papers
 
